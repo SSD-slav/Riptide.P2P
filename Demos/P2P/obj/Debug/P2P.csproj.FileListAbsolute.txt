@@ -1,0 +1,10 @@
+/home/sergey/cool stuf/RiptideNetworking/Demos/P2P/bin/Debug/P2P.exe
+/home/sergey/cool stuf/RiptideNetworking/Demos/P2P/bin/Debug/P2P.pdb
+/home/sergey/cool stuf/RiptideNetworking/Demos/P2P/bin/Debug/RiptideNetworking.dll
+/home/sergey/cool stuf/RiptideNetworking/Demos/P2P/bin/Debug/RiptideNetworking.pdb
+/home/sergey/cool stuf/RiptideNetworking/Demos/P2P/bin/Debug/RiptideNetworking.xml
+/home/sergey/cool stuf/RiptideNetworking/Demos/P2P/obj/Debug/P2P.csproj.AssemblyReference.cache
+/home/sergey/cool stuf/RiptideNetworking/Demos/P2P/obj/Debug/P2P.csproj.CoreCompileInputs.cache
+/home/sergey/cool stuf/RiptideNetworking/Demos/P2P/obj/Debug/P2P.csproj.CopyComplete
+/home/sergey/cool stuf/RiptideNetworking/Demos/P2P/obj/Debug/P2P.exe
+/home/sergey/cool stuf/RiptideNetworking/Demos/P2P/obj/Debug/P2P.pdb
